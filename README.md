@@ -20,4 +20,4 @@ Now go on File and Save "CTRL + S"
 
 Now go on reddit, after refreshing reddit page you should see where you have to draw.
 
-Make sure to have the Plugin activated.
+Make sure to have TamperMonkey activated.
