@@ -9,17 +9,12 @@ Download TamperMonkey extension https://chrome.google.com/webstore/detail/tamper
 
 Then click on the extension the top right of Chrome (please use chrome, might not work on other browsers)
 
-Now go to the file https://github.com/Celidons/place-albania/blob/main/place-albania.js
-and copy the script.
-
-Now open the Tapermonkey extension and go on "create new userscript"
-
-Now replace the code inside with the code you just copied.
-
-Now go on File and Save "CTRL + S"
+Now download the file chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=f6b70f1b-03fc-4df6-badf-4ce7798b03db
 
 Now go on reddit, after refreshing reddit page you should see where you have to draw.
-It should look something like this:![Unbenannt](https://user-images.githubusercontent.com/102899724/161423193-75edc7c5-7306-4cbe-97c1-4b3ef914c18f.PNG)
 
+It should look something like this:
+
+![Unbenannt](https://user-images.githubusercontent.com/102899724/161423193-75edc7c5-7306-4cbe-97c1-4b3ef914c18f.PNG)
 
 Make sure to have TamperMonkey activated!
