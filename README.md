@@ -1,25 +1,17 @@
 # place-albania
 try to take over the canvas!
 
-This script doesn't draw for you, it only shows guides where to draw what color. New version 1.0 - now you won't need to update your script, latest guide will be on your screen after you refesh reddit page :D
+This script doesn't draw for you, it only shows guides where to draw what color. New version 1.0 - now you won't need to update your script, latest guide will be on your screen after you refesh reddit page.
 
 To setup the script follow steps bellow:
 
 1. Download TamperMonkey extension https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
-Then click on the extension the top right of Chrome (please use chrome, might not work on other browsers)
+2. Go to this file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
+and press on "raw", after that u download with Tampermonkey
 
-2. Now go to the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
-and press on 
-"raw"
+3. Check if Tampermonkey is active, now you can visit r/place and it should show you where to paint in which colour.
 
-![tempsanip](https://user-images.githubusercontent.com/102899724/161423810-16113ee8-ed91-4722-95d3-a3c1c7bc07c1.png)
+![loll](https://user-images.githubusercontent.com/102899724/161428889-e88415ae-40e5-43f6-813b-47b97a6cc658.PNG)
 
-now you download the file and make sure that you got TamperMonkey activated.
-
-3. Go on reddit, after refreshing the reddit page you should see where you have to draw.
-
-It should look something like this:
-
-![Unbenannt](https://user-images.githubusercontent.com/102899724/161423193-75edc7c5-7306-4cbe-97c1-4b3ef914c18f.PNG)
 
