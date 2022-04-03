@@ -11,6 +11,12 @@ Then click on the extension the top right of Chrome (please use chrome, might no
 
 Copy the script from the data called "place-albania.js"
 
-Then save by using "ctrl+s" or "command+s"
+Now open the Tapermonkey extension and go on "create new userscript"
 
-After refreshing reddit page you should see where you have to draw.
+Now replace the code inside with the code you just copied.
+
+Now go on File and Save "CTRL + S"
+
+Now go on reddit, after refreshing reddit page you should see where you have to draw.
+
+Make sure to have the Plugin activated.
