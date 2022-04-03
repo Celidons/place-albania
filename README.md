@@ -9,7 +9,7 @@ To setup the script follow steps bellow:
 
 Then click on the extension the top right of Chrome (please use chrome, might not work on other browsers)
 
-2. Now download the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
+2. Now go to the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
 and press on 
 "raw"
 
