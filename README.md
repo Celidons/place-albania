@@ -9,7 +9,7 @@ Download TamperMonkey extension https://chrome.google.com/webstore/detail/tamper
 
 Then click on the extension the top right of Chrome (please use chrome, might not work on other browsers)
 
-Now go to the file "place-albania.js" https://github.com/Celidons/place-albania/blob/main/place-albania.js
+Now go to the file https://github.com/Celidons/place-albania/blob/main/place-albania.js
 and copy the script.
 
 Now open the Tapermonkey extension and go on "create new userscript"
