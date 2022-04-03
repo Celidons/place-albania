@@ -8,7 +8,7 @@ To setup the script follow steps bellow:
 1. Download TamperMonkey extension https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 2. Go to this file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
-and press on "raw", after that u download with Tampermonkey
+and press on "raw", now u download the script with Tampermonkey
 
 3. Check if Tampermonkey is active, now you can visit r/place and it should show you where to paint in which colour.
 
