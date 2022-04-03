@@ -5,18 +5,18 @@ This script doesn't draw for you, it only shows guides where to draw what color.
 
 To setup the script follow steps bellow:
 
-Download TamperMonkey extension https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+1. Download TamperMonkey extension https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 Then click on the extension the top right of Chrome (please use chrome, might not work on other browsers)
 
-Now download the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
+2. Now download the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
 and press on 
 "raw"
 
 ![tempsanip](https://user-images.githubusercontent.com/102899724/161423810-16113ee8-ed91-4722-95d3-a3c1c7bc07c1.png)
 
 now you download the file and make sure that you got TamperMonkey activated.
-Go on reddit, after refreshing the reddit page you should see where you have to draw.
+3. Go on reddit, after refreshing the reddit page you should see where you have to draw.
 
 It should look something like this:
 
