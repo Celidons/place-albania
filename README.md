@@ -11,15 +11,14 @@ Then click on the extension the top right of Chrome (please use chrome, might no
 
 Now download the file https://github.com/Celidons/place-albania/blob/main/place-albania.user.js
 and press on 
-"raw"![tempsanip](https://user-images.githubusercontent.com/102899724/161423810-16113ee8-ed91-4722-95d3-a3c1c7bc07c1.png)
+"raw"
 
-after that you should be able to download the script
+![tempsanip](https://user-images.githubusercontent.com/102899724/161423810-16113ee8-ed91-4722-95d3-a3c1c7bc07c1.png)
 
-
-Now go on reddit, after refreshing reddit page you should see where you have to draw.
+now you download the file and make sure that you got TamperMonkey activated.
+Go on reddit, after refreshing the reddit page you should see where you have to draw.
 
 It should look something like this:
 
 ![Unbenannt](https://user-images.githubusercontent.com/102899724/161423193-75edc7c5-7306-4cbe-97c1-4b3ef914c18f.PNG)
 
-Make sure to have TamperMonkey activated!
