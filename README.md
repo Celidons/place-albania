@@ -16,6 +16,7 @@ and press on
 ![tempsanip](https://user-images.githubusercontent.com/102899724/161423810-16113ee8-ed91-4722-95d3-a3c1c7bc07c1.png)
 
 now you download the file and make sure that you got TamperMonkey activated.
+
 3. Go on reddit, after refreshing the reddit page you should see where you have to draw.
 
 It should look something like this:
